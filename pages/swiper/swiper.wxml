@@ -1,0 +1,6 @@
+<van-swipe-cell id="swipe-cell" right-width="{{ 65 }}" left-width="{{ 1 }}" async-close bind:close="onClose">
+	<input class="digit_input" type="digit" placeholder="请输入"/>
+	<view slot="right">删除</view>
+</van-swipe-cell>
+
+<van-dialog id="van-dialog" />

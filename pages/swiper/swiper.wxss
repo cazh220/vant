@@ -1,0 +1,29 @@
+/* pages/swiper/swiper.wxss */
+.van-swipe-cell__right {
+  display: inline-block;
+  width: 65px;
+  height: 44px;
+  font-size: 15px;
+  line-height: 44px;
+  color: #fff;
+  text-align: center;
+  background-color: #f44;
+}
+
+.van-icon__image {
+  width: 3px;
+}
+
+.van-cell {
+  padding-left: 10px !important;
+}
+
+.van-cell__title {
+  font-weight: 600;
+  font-size: 32rpx;
+}
+
+.digit_input {
+  height: 44px;
+  line-height: 44px;
+}
